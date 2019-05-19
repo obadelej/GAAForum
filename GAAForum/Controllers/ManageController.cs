@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,6 +13,7 @@ using Microsoft.Extensions.Options;
 using GAAForum.Models;
 using GAAForum.Models.ManageViewModels;
 using GAAForum.Services;
+using GAAForum.Data.Models;
 
 namespace GAAForum.Controllers
 {

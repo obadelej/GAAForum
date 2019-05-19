@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.Claims;
@@ -13,6 +13,7 @@ using Microsoft.Extensions.Options;
 using GAAForum.Models;
 using GAAForum.Models.AccountViewModels;
 using GAAForum.Services;
+using GAAForum.Data.Models;
 
 namespace GAAForum.Controllers
 {
